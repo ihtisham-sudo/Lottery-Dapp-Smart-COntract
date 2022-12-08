@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"array.sol": "A"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"array.sol": {
+			"keccak256": "0x22ea994df8e7d7d81c542aad804124fcff3116a74728493a8ddbfaad4a9e92c6",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://6994d44922342e6f2101ddbd79dbdadec4242e8e9c785055b312a55944f3c260",
+				"dweb:/ipfs/QmZJtHQATsZAXG3dJ34BM8WGHk2c5FMDpPu1uvmCzEQcXS"
+			]
+		}
+	},
+	"version": 1
+}
